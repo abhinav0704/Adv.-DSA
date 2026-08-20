@@ -1,4 +1,3 @@
-//program to check a given number is palindrome or not using stack
 #include <iostream>
 #include <stack>
 using namespace std;
