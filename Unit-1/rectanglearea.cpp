@@ -27,7 +27,8 @@ void greaterarea(Rectangle r1, Rectangle r2) {
     } else {
         cout << "Both rectangles have equal area: " << r1.area() << endl;
     }
-}
+} // program to find febonacci number by recursion
+// program for finding nth fenacci number using recurssion and improving its run time to save stack operation
 
 int main() {
     Rectangle rect1(10, 5);
